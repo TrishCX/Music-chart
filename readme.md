@@ -4,8 +4,8 @@
 >
 > [![music-chart](https://nodei.co/npm/music-chart.png?downloads=true&downloadRank=true)](http://npmjs.org/package/music-chart)
 
-[![Version](https://img.shields.io/npm/v/@myno_21/time.svg)](https://www.npmjs.com/package/music-chart)
-[![Downloads](https://img.shields.io/npm/dt/@myno_21/time.svg)](https://www.npmjs.com/package/music-chart)
+[![Version](https://img.shields.io/npm/v/music-chart.svg)](https://www.npmjs.com/package/music-chart)
+[![Downloads](https://img.shields.io/npm/dt/music-chart.svg)](https://www.npmjs.com/package/music-chart)
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MYN0/-Myno-time)
 
