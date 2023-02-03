@@ -1,17 +1,29 @@
 {
   "name": "music-chart",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Simple way to fetch the top trending songs, artist, albums, show trending song for a specific country.",
   "type": "module",
   "main": "src/lib/exports/index.js",
+  "repository": {
+    "url": "https://github.com/TrishCX/Music-chart"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "tsc --watch",
     "dev": "nodemon src/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "music",
+    "music-data",
+    "chart",
+    "music-chart",
+    "music-api",
+    "music-db",
+    "db-music",
+    "db"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "got": "^12.5.3",
